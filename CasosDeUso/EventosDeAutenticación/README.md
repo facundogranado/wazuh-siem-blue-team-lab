@@ -1,4 +1,6 @@
 # Detección de intentos de autenticación fallidos en endpoint Windows
+![image alt](https://github.com/facundogranado/wazuh-siem-blue-team-lab/blob/cd72fd5c71fb7cacde67eee42cf1620b76f1324c/Capturas/Screenshot%20from%202026-01-16%2001-38-22.png)
+
 ## Contexto
 
 Durante el monitoreo continuo de eventos de seguridad mediante Wazuh, se detectaron múltiples intentos de autenticación fallidos sobre un endpoint Windows perteneciente a un usuario válido del sistema.
@@ -54,3 +56,4 @@ El evento fue clasificado como actividad legítima, posiblemente asociada a un e
 No se evidenciaron indicadores adicionales de compromiso ni necesidad de escalamiento.
 
 Se recomienda mantener monitoreo y correlacionar con otros eventos en caso de recurrencia.
+
