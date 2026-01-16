@@ -29,8 +29,6 @@ Indicadores observados:
 
  ## Proceso de triage
 
-Se aplicó el siguiente análisis:
-
 ### 1-Validación de la alerta
 
 Evento proveniente de fuente confiable (Windows Security Log)
@@ -56,5 +54,6 @@ El evento fue clasificado como actividad legítima, posiblemente asociada a un e
 No se evidenciaron indicadores adicionales de compromiso ni necesidad de escalamiento.
 
 Se recomienda mantener monitoreo y correlacionar con otros eventos en caso de recurrencia.
+
 
 
