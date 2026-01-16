@@ -41,7 +41,7 @@ Este proyecto documenta el despliegue y uso inicial de **Wazuh como SIEM/XDR**, 
 ##  Casos de uso implementados
 
 ### 1. [Monitoreo de eventos de autenticación](https://github.com/facundogranado/wazuh-siem-blue-team-lab/tree/main/CasosDeUso/EventosDeAutenticaci%C3%B3n)
-### 2. Cambios en configuración del sistema
+### 2. [Cambios en configuración del sistema](https://github.com/facundogranado/wazuh-siem-blue-team-lab/tree/main/CasosDeUso/ConfiguracionDelSistema)
 
 ### 3. Escaneos de puertos a un endpoint
 
@@ -52,20 +52,10 @@ Este proyecto documenta el despliegue y uso inicial de **Wazuh como SIEM/XDR**, 
 
 Para cada alerta analizada se siguió el siguiente flujo:
 
-1. Identificación del evento
-2. Validación de la fuente
-3. Evaluación de severidad e impacto
-4. Decisión: monitoreo / escalamiento
-5. Documentación del caso
-
+1. Validación de la alerta
+2. Contexto del evento
+4. Evaluación de severidad
+   
 ---
 
-##  Aprendizajes clave
-
-* Comprensión práctica del funcionamiento de un SIEM
-* Importancia del contexto al analizar alertas
-* Diferencia entre eventos, alertas e incidentes
-* Valor de la documentación clara en un entorno SOC
-
----
 
