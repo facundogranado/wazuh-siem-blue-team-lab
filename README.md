@@ -1,5 +1,8 @@
 # Wazuh SIEM Lab – Blue Team 
 
+![image alt](https://github.com/facundogranado/wazuh-siem-blue-team-lab/blob/7d558038fc2eb34dc4244e30823225a662a90b0a/Capturas/Screenshot%20from%202026-01-16%2001-35-50.png)
+
+
 ##  Descripción general
 
 Este proyecto documenta el despliegue y uso inicial de **Wazuh como SIEM/XDR**, con el objetivo de simular tareas típicas de un **SOC / Blue Team**: monitoreo, análisis y triage básico de alertas de seguridad.
@@ -22,7 +25,6 @@ Este proyecto documenta el despliegue y uso inicial de **Wazuh como SIEM/XDR**, 
 * **1 Endpoint Windows**
 * **1 Endpoint Linux**
 
-Todos los componentes se ejecutan en un entorno de laboratorio aislado (VMs).
 
 ---
 
