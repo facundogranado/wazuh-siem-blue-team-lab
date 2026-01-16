@@ -38,8 +38,7 @@ Todos los componentes se ejecutan en un entorno de laboratorio aislado (VMs).
 
 ##  Casos de uso implementados
 
-### 1. Monitoreo de eventos de autenticación
-
+### 1. [Monitoreo de eventos de autenticación](https://github.com/facundogranado/wazuh-siem-blue-team-lab/tree/main/CasosDeUso/EventosDeAutenticaci%C3%B3n)
 ### 2. Cambios en configuración del sistema
 
 ### 3. Escaneos de puertos a un endpoint
