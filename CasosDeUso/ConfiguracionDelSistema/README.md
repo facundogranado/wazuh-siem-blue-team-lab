@@ -38,11 +38,11 @@ Evento generado por FIM (File Integrity Monitoring)
 
 Cambio realizado por usuario con privilegios
 
-### 3-Horario laboral
+Horario laboral
 
 No se observaron otros eventos sospechosos correlacionados
 
-### 4-Evaluación de severidad
+### 3-Evaluación de severidad
 
 Servicio afectado: firewall
 
@@ -61,3 +61,4 @@ Registrar el cambio
 Verificar alineación con políticas internas
 
 Mantener monitoreo posterior
+
