@@ -42,10 +42,8 @@ Este proyecto documenta el despliegue y uso inicial de **Wazuh como SIEM/XDR**, 
 
 ### 1. [Monitoreo de eventos de autenticación](https://github.com/facundogranado/wazuh-siem-blue-team-lab/tree/main/CasosDeUso/EventosDeAutenticaci%C3%B3n)
 ### 2. [Cambios en configuración del sistema](https://github.com/facundogranado/wazuh-siem-blue-team-lab/tree/main/CasosDeUso/ConfiguracionDelSistema)
+### 3. [Escaneos de puertos a un endpoint](https://github.com/facundogranado/wazuh-siem-blue-team-lab/blob/main/CasosDeUso/DetencionDeEscaneoDePuertos)
 
-### 3. Escaneos de puertos a un endpoint
-
-### 4. Modificación en un archivo
 ---
 
 ##  Proceso de triage aplicado
