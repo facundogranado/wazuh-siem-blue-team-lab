@@ -8,7 +8,7 @@ Durante el monitoreo del tráfico de red en un entorno de laboratorio, el sistem
 
 * Herramienta de detección: Suricata (IDS)
 
-* Tipo de tráfico: TCP
+* Tipo de tráfico: TCP, UDP, ICMP
 
 * Origen del evento: Tráfico de red
 
@@ -20,7 +20,7 @@ Suricata generó alertas basadas en reglas de detección de escaneo de puertos.
 
 ### Indicadores observados:
 
-* Múltiples intentos de conexión TCP
+* Múltiples intentos de conexión TCP, UDP, ICMP
 
 * Puertos de destino secuenciales
 
@@ -66,4 +66,5 @@ Mantener monitoreo
 Correlacionar con logs de firewall y SIEM
 
 Revisar reglas IDS para ajuste de sensibilidad
+
 
