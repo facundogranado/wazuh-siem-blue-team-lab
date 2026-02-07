@@ -1,4 +1,5 @@
 # Detección de escaneo de puertos mediante Suricata
+![image alt](https://github.com/facundogranado/wazuh-siem-blue-team-lab/blob/main/Capturas/Screenshot%20from%202026-02-07%2013-50-44.png)
 ## Contexto
 
 Durante el monitoreo del tráfico de red en un entorno de laboratorio, el sistema de detección de intrusiones Suricata generó alertas asociadas a un posible escaneo de puertos dirigido a un host interno.
@@ -65,3 +66,4 @@ Mantener monitoreo
 Correlacionar con logs de firewall y SIEM
 
 Revisar reglas IDS para ajuste de sensibilidad
+
